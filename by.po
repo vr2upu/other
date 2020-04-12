@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CHIRP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-16 12:06-0800\n"
+"PO-Revision-Date: 2020-01-21 15:23+0800\n"
+"Last-Translator: Dan Smith <dan@theine>\n"
+"Language-Team: English\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.2.4\n"
+
+msgid "Automatic Repeater Offset"
+msgstr "自动中继器偏移"
+
+msgid "CHIRP Files"
+msgstr "CHIRP 文件"
+
+msgid "CHIRP Native File"
+msgstr "CHIRP 本机文件"
+
+msgid "CHIRP Radio Images"
+msgstr "CHIRP 无线电Images文件"
+
+msgid "CSV File"
+msgstr "CSV 文件"
+
+msgid "CSV Files"
+msgstr "CSV 文件"
+
+msgid "Columns"
+msgstr "列"
+
+msgid "Developer"
+msgstr "开发人员"
+
+msgid "Diff raw memories"
+msgstr "差异原始记忆"
+
+msgid "Discard Changes?"
+msgstr "放弃更改?"
+
+msgid "Don't show this again"
+msgstr "不再显示"
+
+msgid "Download From Radio"
+msgstr "从电台下载"
+
+msgid "E_xchange"
+msgstr "交换"
+
+msgid "Enable Developer Functions"
+msgstr "启用开发人员功能"
+
+msgid "Error reporting is enabled"
+msgstr "错误报告已启用"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "File is modified, save changes before closing?"
+msgstr "文件已修改，在关闭前保存更改?"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Hide Unused Fields"
+msgstr "隐藏未使用的字段"
+
+msgid "ICF Files"
+msgstr "ICF 文件"
+
+msgid ""
+"ICF files cannot be edited, only displayed or imported into another file. "
+"Open in read-only mode?"
+msgstr ""
+"ICF 文件无法编辑, 仅显示或导入其他文件. "
+"在只读模式下打开?"
+
+msgid ""
+"If you wish to disable this feature you may do so in the <u>Help</u> menu"
+msgstr ""
+"如果您希望禁用此功能，您可以在 <u>帮助</u> 菜单中禁用此功能"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import from RFinder"
+msgstr "从 RFinder 导入"
+
+msgid "Import from RepeaterBook"
+msgstr "从 RepeaterBook 导入"
+
+msgid "Move _Up"
+msgstr "移动_上"
+
+msgid "Note:"
+msgstr "注意:"
+
+msgid "Open recent file {name}"
+msgstr "最近打开文件 {name}"
+
+msgid "Report statistics"
+msgstr "统计信息报告"
+
+msgid "Reporting is disabled"
+msgstr "报告已禁用"
+
+msgid "Select Columns"
+msgstr "选择列"
+
+msgid "Show raw memory"
+msgstr "显示原始内存"
+
+msgid ""
+"The reporting feature of CHIRP is designed to help <u>improve quality</u> by "
+"allowing the authors to focus on the radio drivers used most often and "
+"errors experienced by the users. The reports contain no identifying "
+"information and are used only for statistical purposes by the authors. Your "
+"privacy is extremely important, but <u>please consider leaving this feature "
+"enabled to help make CHIRP better!</u>\n"
+"\n"
+"<b>Are you sure you want to disable this feature?</b>"
+msgstr ""
+"CHIRP 的报告功能旨在帮助 <u>提高质量</u> 通过 "
+"允许作者专注于最常用的无线电驱动程序和 "
+"用户遇到的错误。报告不包含标识 "
+"信息，仅供作者用于统计目的。您的 "
+"隐私是极其重要的，但 <u>请考虑离开此功能 "
+"启用以帮助使CHIRP更好!</u>\n"
+"\n"
+"<b>是否确实要禁用此功能？</b>"
+
+msgid ""
+"The {vendor} {model} operates in <b>live mode</b>. This means that any "
+"changes you make are immediately sent to the radio. Because of this, you "
+"cannot perform the <u>Save</u> or <u>Upload</u> operations. If you wish to "
+"edit the contents offline, please <u>Export</u> to a CSV file, using the "
+"<b>File menu</b>."
+msgstr ""
+"在 {vendor} {model} <b>实时模式下操作</b>。这意味着任何 "
+"您所做的更改会立即发送到无线电. 正因为，你 "
+"无法执行 <u>保存</u> 或 <u>上载</u> 操作. 如果你想 "
+"离线编辑内容, 请<u>导出</u>到 CSV 文件, "
+"<b>文件菜单</b>."
+
+msgid "There was an error opening {fname}: {error}"
+msgstr "打开文件时出错 {fname}: {error}"
+
+msgid "Untitled"
+msgstr "无标题"
+
+msgid "Upload To Radio"
+msgstr "上传至电台"
+
+msgid "VX7 Commander"
+msgstr "VX7 Commander"
+
+msgid "VX7 Commander Files"
+msgstr "VX7 Commander Files"
+
+msgid "Visible columns for {radio}"
+msgstr "的可见列 {radio}"
+
+msgid "_Copy"
+msgstr "_复制"
+
+msgid "_Cut"
+msgstr "_切割"
+
+msgid "_Delete"
+msgstr "_删除"
+
+msgid "_Edit"
+msgstr "_编辑"
+
+msgid "_File"
+msgstr "_文件"
+
+msgid "_Paste"
+msgstr "_粘贴"
+
+msgid "_Radio"
+msgstr "_电台"
+
+msgid "_Recent"
+msgstr "_最近"
+
+msgid "_View"
+msgstr "_查看"
+
+msgid "{vendor} {model} image file"
+msgstr "{vendor} {model} image 文件"

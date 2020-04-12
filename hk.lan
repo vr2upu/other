@@ -1,0 +1,316 @@
+﻿; hk Module.
+; Created by : VR2UPU
+[Init]
+importmembers = 導入 %s 成員... 
+;
+[About]
+txt1 = 錯誤報告到
+txt2 = 由
+txt3 = 特別感謝
+txt4 = 他的想法
+txt5 = 會員名單
+txt6 = 本地化：
+txt7 = 用於捐贈
+txt8 = 所有幫助
+txt9 = 對於他們的建議
+txt10 = 錯誤報告和測試
+; 
+[Buttons]
+Activate = 激活
+Apply = 申請
+AwardRules = 獎項規則
+Awards = 獎項
+Background = 背景
+Cancel = 取消
+Check = 檢查
+Close = 關閉
+Delete = 刪除
+DeleteCall = 刪除呼號
+Download = 下載
+EUSelection = 歐洲區域選擇
+Generate = 生成
+Install = 安裝
+PasteCB = 從剪貼板粘貼
+Save = 保存
+SelectionLimit = 選擇限制
+Test = 測試
+Text = 文本
+Join = 加入
+Disqualified = 不合格
+Deselect = 不要檢查這些獎項！
+Yes = 是
+No = 否
+Map = %s 地圖
+SaveImage = 保存圖像
+up = 放大
+down = 減少
+Select = 選擇
+; 
+[DM780]
+DM780Logbook = DM780 日誌
+DMCB_0 = 蜂鳴聲
+DMCB_1 = 聲音文件 (WAV)
+DMCB_2 = 文本到語音
+DMCB_3 = 超級瀏覽器顏色
+DMFrame3D_0 = 操作
+DMFrame3D_4 = 要保存的路徑
+DMFrame3D_5 = 超級瀏覽器顏色（匹配通道）
+DMFrame3D_6 = EPC 歐洲區域
+DMRadio_0 = 發言
+DMRadio_1 = 拼寫
+DMRadio_2 = 使用拼音字母
+; 
+[HRD]
+HRD2009Log = 打開日誌
+HRDFile = 文件
+HRDNewLog = 打開 HRD 5 日誌
+HRDPassword = 密碼
+HRDPath = 路徑
+HRDUsername = 用戶名
+HRDlogformat = 日誌格式
+HRDoptional = 可選
+; 
+[Menu]
+help = 幫助
+help_0 = UAAC 錯誤指南
+help_1 = 獎項申請
+help_2 = UAAC 和區域/國家
+addHelp = UAAC 錯誤指南
+addlanguage = 添加其他語言
+ctxAll = 全部
+ctxCDG = CDG 獎項
+ctxEPC = EPC 獎項
+ctxHAM = 業餘電台
+ctxNDG = NDG 獎項
+ctxRequest = 請求 %s 解鎖代碼
+ctxReset = 插入 %s 的解鎖代碼
+ctxSWL = 短波收聽者
+mnuSelectClub = 選擇俱樂部
+ctxBDM = BDM 獎項
+ctxDMC = DMC 獎項
+ctxFT8DMC = FT8DMC 獎項
+ctx30MDG = 30MDG 獎項
+ctxERC = ERC 獎項
+ctxSIM31 = SIM31 獎項
+ctxAGB = AGB 獎項
+ctxadif = ADIF %s 導出
+ctxadix = ADIX %s 導出
+; 
+[Messages]
+msg3306 = TCP 端口 3306 似乎被阻止！
+msgCRC32 = CRC32 檢查失敗！
+msgCRC321 = 舊數據庫已恢覆！
+msgCRC322 = 請稍後再試！
+msgCSdel = 呼號已刪除！
+msgCheck0 = 未選中 -> 未激活申請按鈕
+msgCheck1 = 新的 %s 獎項
+msgCheck2 = 1 個新的 %s 獎項
+msgDB = 您的成員數據庫超過三天.
+msgDB1 = 立即檢查？
+msgDown 失敗 = 下載失敗！
+msgFileCor = 文件似乎已損壞！
+msgHelpDown = 下載XX...
+msgHelpOK = 已成功安裝新 XX.
+msgHelpOK1 = 將 XX 設置為您的標準語言？
+msgITU = 您曾通聯過 %i 不同的 ITU 區域.
+msgITU1 = 您可以在 MMPA 選項卡中更改它們.
+msgITU2 = 你確定它們都是正確的嗎？
+msgITU3 = 對不起,您仍然缺少 %i ITU 區域！
+msgMixW = 此文件包含 xx 行.
+msgMixW1 = 只允許 4900 行.
+msgNewDB = 已下載新數據庫
+msgNo3Server = 三個申請程序服務器中沒有一個在給定的時隙中應答,但在 99% 的案例中,管理器現在收到了三個申請程序.
+msgNo3Server1 = 申請程序狀態已更改為已請求.
+msgNoDB = 未找到新的數據庫文件.您的數據庫是最新的.
+msgNoDown = 下載問題
+msgNoDown1 = 請稍後再試
+msgNoFile = 無法創建文件！
+msgNoInet = 出現問題！
+msgNoInet1 = 需要開放的互聯網連接！
+msgNoMEMBER = 您必須是 EPC、 CDG、 NDG、 30MDG、 FT8DMC、 ERC 或 AGB 的積極成員才能申請獎項.
+msgNoMember30mdg = 您必須成為 30MDG 的積極成員才能申請獎項.
+msgNoMember1 = 隨時加入家庭.
+msgNoODBC = 無法初始化數據庫（ODBC v3 或更高）環境
+msgNo 打開 = 無法打開文件！
+msgNoSMTP = 打開的 SMTP 連接失敗
+msgNo 服務器 = 服務器不應答！
+msgNoUser數據 = 您沒有輸入您的用戶數據！
+msgOutdate = 您的 UltimateAAC 版本已過時.請更新和/或檢查您的收件箱.
+msgRegRestore = 所有個人數據和獎項信息都已恢覆.
+msgRegSave = 所有個人數據和獎項信息均已保存.
+msgReq = 請求正在進行中...
+msgStatBar = 閱讀日誌
+msgStatBar1 = 檢查獎項
+msgStatBar2 = 創建結果窗口
+msgSync = xx 的同步已完成！
+msgTime = 數字 QSO 中的時間：%s
+msgTime1 = 天
+msgTnx = 謝謝！
+msgTnxAppl = 您的 %s 獎項申請已發送給經理.
+msgTnxAppl1 = 允許幾天的調查,不要申請兩次或兩次以上的獎項,這只會延緩進度！
+msgUC1 = 您已以 %s 申請 %s 獎項.
+msgUC2 = 請耐心等待,我們只是人！
+msgUC3 = 代碼已過期或獎項不匹配！
+msgUC4 = 獎項已解鎖. 您現在可以檢查日誌 - "申請" 按鈕將再次激活.
+msgUC5 = 所有申請此獎項的嘗試均已失敗.
+msgUC6 = 請聯系獎項經理以找到解決方案.
+msgUpOK = 更新完成！
+msgUpdate = 數據已更新...
+msgCheckDB = 下載新成員數據庫...
+msgCheckUzip = 檢查新成員數據庫...
+msgCheckHelp文件 = 檢查新的美洲呼號文件...
+msgCheckLangFile = 檢查新語言文件...
+msgCheck文件 = 檢查新的 %s 文件...
+msgCheckUEPC = 檢查新的 UltimateAAC 版本...
+msgReStart1 = epcmdb2.zBin 文件已被刪除或自動替換為備份.
+msgReStart2 = 現在重新啟動 UltimateAAC？
+msgEAMA = 您的經理表已過時. EAMA的 "申請" 按鈕將被禁用！
+msgEAMA1 = 是否更新成員資格數據庫以激活所有申請按鈕？
+email = 您的電子郵件地址有問題：
+email0 = 只要您不指定有效的電子郵件,您就不能申請獎項！
+email1 = 請在用戶數據窗口中修復您的電子郵件地址,並通知我（uaac@epc-mc.eu）！
+msgZoneCheck0 = 請在標準瀏覽器中等待結果.
+msgZoneCheck1 = 所有引腳都是綠色的？
+msgZoneCheck2 = 如果沒有,請更正主日誌程序中的通聯數據並再次檢查日誌.
+msgZoneCheck3 = 對於 %s 的每個錯誤獎項申請都可能立即被暫停批準.
+msgMMPA = %i 區域的 QSO 太多.
+msgMMPA1 = 請刪除國際電聯區域的多次出現.
+msgnotin = 呼號中不允許的符號.只有 A-Z, 0-9, / 和 - 有效.
+; 
+[MixW]
+Country = 國家/地區
+EUArea = 歐洲區域
+Limitation = 限制：4900行的 icons.cfg
+MixWLimit = 選擇限制
+MixWLogbook = MixW 日誌
+MixWPath = 保存 icons.cfg 的路徑
+; 
+[MyAwards]
+Award = 獎項
+Status = 狀態
+TooltipHead = 您已收到 %s 的 %s% 獎項
+TooltipHead1 = 下載獎項！
+TooltipHead2 = 重新申請
+TooltipText = 單擊鼠標左鍵打開獎項狀態！
+TooltipText1 = 單擊鼠標左鍵打開 EPC-MC
+Tooltiptext2 = 單擊鼠標左鍵獲取/插入解鎖代碼
+received = 收到
+reqText = 您要求 XX 獎項的解鎖代碼，因為您的尚未收到獎項經理回郵
+requested = 請求
+resText = 請從電子郵件中插入解鎖代碼：
+worked = 通聯
+; 
+[Start]
+tbbtnAbout = 關於
+tbbtnAlarm = icons.cfg 用於 MixW
+tbbtnCDG = 在 EPC, CDG, NDG, 30MDG, FT8DMC, ERC 或 AGB 獎項之間切換
+tbbtnCheck = 在 EPC-MC 中檢查獎勵的激活申請按鈕
+tbbtnDMAlarm = DM780的報警列表
+tbbtnDonate = 捐贈到 UltimateAAC, 作為您的願望的答覆
+tbbtnAdif = ADIF 導出
+tbbtnExit = 退出
+tbbtnGoogleEarth = 谷歌地球
+tbbtnHelp = 經理
+tbbtnMyAwards = 我的獎項
+tbbtnODBC = 開放式 HRD5 DSN...
+tbbtn打開 = 打開...
+tbbtnSaveReg = 保存/恢覆所有個人數據...
+tbbtnStandard = 打開標準日誌
+tbbtnStatistic = 統計
+tbbtnSyncPortable = 同步 UltimateAAC 便攜式 -> UltimateAAC
+tbbtnUpdate = 更新
+tbbtnUser = 用戶數據
+txtInfo = 請註意...
+txtInfo1 = 請確保您能夠接收經理的電子郵件！
+txtInfo2 = 並更密切的看你的垃圾郵件夾/設置！
+txtInfo3 = 聲明： 我聲明，所有聯系人都是我個人從同一個DXCC國家進行的，並且符合我的無線電發射許可證的條款。我承認，違反這些規則可能導致取消獲獎計劃的資格。我進一步同意，在所有爭議情況下，頒獎經理的決定將是最終決定。
+txtInfo4 = 我聲明，所有聯系人都是我個人從同一個DXCC國家/地區進行的，並且符合我的無線電傳輸許可證的條款。
+txtInfo5 = 只有具有你個人當前或舊呼號的通聯有效!!!
+tbbtnLink = 鏈接
+France = 法國
+Germany = 德國
+Russia = 俄羅斯
+Ukraine = 烏克蘭
+Kazakhstan = 哈薩克斯坦
+Poland = 波蘭
+tbbtnLanguage = 語言
+Czech = 捷克共和國
+lblStart = 歡迎來到
+lblStart2 = 請選擇一個俱樂部以繼續...
+tbbtnAward = 不包括獎項
+; 
+[Statistics]
+Africa = 非洲
+America = 美洲
+Asia = 亞洲
+Europe = 歐洲
+Members = 會員
+Northamerica = 北美
+Oceania = 大洋洲
+Southamerica = 南美
+Statistics = 統計
+StatisticsFor = 統計信息
+World = 世界
+notworked = 未通聯
+; 
+[Tabs]
+tabAward = 獎項
+tabCont = 大陸獎項
+tabCountry = 國家/地區獎項
+tabError = 錯誤日誌
+tabSum = 摘要
+tabIARU = 無效
+eun = 歐洲國家
+eui = 歐洲國際
+dxn = 國家 DX
+dxi = 國際 DX
+; 
+[Update]
+lblDate = 發布日期
+lblFile = 文件大小
+lblVer = 版本
+; 
+[User]
+cmbOptPortable = 使用 USB 記憶棒
+cmbOptUseProxy = 使用代理
+lblOpt0 = 呼號
+lblOpt1 = 全名
+lblOpt2 = %s 編號
+lblOpt3 = 電子郵件
+lblOpt4 = 格式
+lblOpt6 = 管理器密碼
+lblOpt7 = 語言
+lblOpt11 = 標記不檢查的文憑
+lblOptPortTXT = 端口
+lblOptPortable = 路徑
+lblOptPrefDB = 標準日誌文件
+lblOptPrefServer = 標準服務器
+lblOptProxyServerTXT = 代理服務器
+lbllig = 刪除語言文件
+cbOptProxyAUTH = 具有身份驗證的代理
+lblOpt10 = 此日誌中的所有已用呼號 - NO %s、%s/P、%s/QRP、...（按逗號分隔）
+lblLogBook = 日誌
+lblUEPCp = UltimateAAC 便攜式
+lblNumber = 會員號碼
+lblCheckAwards = 排除
+lblHideShow = 隱藏 / 顯示
+lblAutoExclude = 排除獎項
+lbl100 = 標記 100% 獎項
+lbl30mdgcall = 30MDG 獎項中使用的呼號
+lbl30mdgname = 30MDG 獎項中使用的全名
+lbl30mdgprecs = 用前呼號申請 30MDG 獎項
+; 
+[Windows]
+Win13Title = MixW icons.cfg 設置
+Win14Title = 更新 UltimateAAC
+Win17Title = 選擇標準日誌
+Win2Title = 刪除語言
+Win5Title = 獎項申請
+Win6Title = DM780 報警管理器設置
+WinError = 錯誤
+WinInfo = 信息
+WinOpenLog = 打開日誌文件
+WinRequest = 解鎖代碼
+WinSaveADIF = 保存 ADIF 日誌文件
+
+
